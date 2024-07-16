@@ -1,6 +1,6 @@
 {
   "name": "ant-design-vue",
-  "version": "1.7.8",
+  "version": "1.7.9",
   "title": "Ant Design Vue",
   "description": "An enterprise-class UI design language and Vue-based implementation",
   "keywords": [
@@ -177,7 +177,7 @@
     "@simonwep/pickr": "~1.7.0",
     "add-dom-event-listener": "^1.0.2",
     "array-tree-filter": "^2.1.0",
-    "async-validator": "^3.0.3",
+    "async-validator": "4.0.4",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-runtime": "6.x",
     "classnames": "^2.2.5",
